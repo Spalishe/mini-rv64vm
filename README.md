@@ -13,5 +13,10 @@ cd mini-rv64vm
 make
 ```
 
+# Running
+```
+./build/mini-rv64vm path_to_dtb path_to_firmware path_to_initrd(optional)
+```
+
 # LICENSE
 This project using MIT LICENSE - See [LICENSE](./LICENSE)
