@@ -1,0 +1,7 @@
+{
+	"InstallScripts" : 
+	[
+		"/home/michen/dev/mini-rv64vm/build/cmake_install.cmake"
+	],
+	"Parallel" : false
+}
