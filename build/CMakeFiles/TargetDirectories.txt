@@ -1,3 +1,0 @@
-/home/michen/dev/mini-rv64vm/build/CMakeFiles/mini-rv64vm.dir
-/home/michen/dev/mini-rv64vm/build/CMakeFiles/edit_cache.dir
-/home/michen/dev/mini-rv64vm/build/CMakeFiles/rebuild_cache.dir
